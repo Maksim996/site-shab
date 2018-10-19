@@ -1,0 +1,3 @@
+ $("#countrySelect").countrySelect({
+    defaultCountry:'ua'
+  });
